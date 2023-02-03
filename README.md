@@ -1,2 +1,2 @@
 # Snack_Finder
-Created with CodeSandbox
+A small react app made in codesandbox to identify the food emoji.
