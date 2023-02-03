@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: blanchedalmond;
+  margin: 10rem;
+}
+.inp {
+  width: 70%;
+  border-radius: 2rem;
+  padding: 1rem;
+}
+.food:hover {
+  background-color: crimson;
+}
